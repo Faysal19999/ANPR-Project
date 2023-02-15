@@ -1,0 +1,6 @@
+pytesseract==0.3.1
+imutils==0.5.3
+opencv-python==4.3.0.38
+pyqt5
+setuptools==40.8.0
+pywin32
