@@ -12,6 +12,7 @@ A Group project centered around creating an interactive GUI to scan Licence plat
 * Google Tesseract OCR 5.0.0 alpha
 
 
+### Video Tutorial
 [![Preview](https://i.ytimg.com/vi_webp/KPHP257mb5o/maxresdefault.webp)](https://www.youtube.com/watch?v=KPHP257mb5o)
 
 ## Installation ( Dependencies ) 
